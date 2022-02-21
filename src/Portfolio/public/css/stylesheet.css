@@ -142,12 +142,12 @@ footer {
 
     .SNS-link {
         display: inline-block;
+        cursor: pointer;
     }
 
     .SNS-link > button {
         border: none;
         background: none;
-        cursor: pointer;
     }
 
     .SNS-link > img {

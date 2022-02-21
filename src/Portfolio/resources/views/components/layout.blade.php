@@ -10,7 +10,7 @@
     <body>
         <header>
             <div class="title">
-                <h1>rittoのプロフィール</h1>
+                <h1>Masahiro Ohara</h1>
             </div>
             <div class="header-photo">
                 <img src="{{ url('images/day.jpeg') }}" />

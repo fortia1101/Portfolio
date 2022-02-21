@@ -1,6 +1,6 @@
 <x-layout>
     <x-slot name="title">
-        rittoのプロフィール
+        Masahiro Ohara
     </x-slot>
 
     <div class="block">
@@ -8,7 +8,7 @@
         <table>
             <tr>
                 <th>名前</th>
-                <td><span class="mgn">ritto</span></td>
+                <td><span class="mgn">Masahiro Ohara</span></td>
             </tr>
             <tr>
                 <th>特徴</th>
@@ -19,16 +19,8 @@
                 <td><span class="mgn">岡山大学理学部地球科学科</span></br><span class="mgn"><a onclick="location.href='https://epa.desc.okayama-u.ac.jp'" style="text-decoration:none; cursor:pointer; color:deepskyblue;">地球および惑星大気科学研究室</a></span></td>
             </tr>
             <tr>
-                <th>出身地</th>
-                <td><span class="mgn">高知県</span></td>
-            </tr>
-            <tr>
-                <th>現住所</th>
-                <td><span class="mgn">岡山県</span</td>
-            </tr>
-            <tr>
                 <th>資格</th>
-                <td><span class="mgn">普通自動車運転免許</span></td>
+                <td><span class="mgn">普通自動車第一種運転免許</span></td>
             </tr>
             <tr>
                 <th>趣味</th>
@@ -45,18 +37,6 @@
                 <td><span class="mgn">生誕</span></td>
             </tr>
             <tr>
-                <th>2012</th>
-                <td><span class="mgn">朝倉第二小学校 卒業</span></td>
-            </tr>
-            <tr>
-                <th>2015</th>
-                <td><span class="mgn">高知学芸中学校 卒業</span></td>
-            </tr>
-            <tr>
-                <th>2018</th>
-                <td><span class="mgn">高知学芸高等学校 卒業</span></td>
-            </tr>
-            <tr>
                 <th>2019</th>
                 <td><span class="mgn">岡山大学 理学部地球科学科 入学</span><br /><span class="mgn">岡山大学吟詩部 入部</span></td>
             </tr>
@@ -68,7 +48,7 @@
     </div>
 
     <div class="block">
-        <h2>製品リスト</h2>
+        <h2>つくったもの</h2>
         <div class="product">
             <h3>○ 901の鍵アプリ web版</h3>
             <p>岡山大学吟詩部の恒例行事"901の鍵", その機関紙をアーカイブとしてまとめたwebアプリ. セキュリティ上の観点から部員のみ閲覧可.</p>
@@ -78,7 +58,7 @@
         </div>
         <div class="product">
             <h3>○ CLI上で動かすプログラム</h3>
-            <p>マジで有用性のないプログラムなのでリスト形式で紹介. 詳細はGitHubリポジトリを参照.</p>
+            <p>マジで実用性のないプログラムなのでリスト形式で紹介. 詳細はGitHubリポジトリを参照.</p>
             <ul>
                 <li>偏差値自動計算プログラム(csv形式で成績表を出力)</li>
                 <li>顔認識プログラム</li>
